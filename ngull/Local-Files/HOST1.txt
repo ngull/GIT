@@ -1,0 +1,156 @@
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 1.1.1.1/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 2.2.2.2/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 3.3.3.3/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 4.4.4.4/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 5.5.5.5/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 6.6.6.6/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 1.1.1.1/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 2.2.2.2/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 3.3.3.3/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 4.4.4.4/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 5.5.5.5/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
+ {
+ "l3extSubnet": {
+ "attributes": {
+ "aggregate": "",
+ "annotation": "",
+ "descr": "",
+"ip": 6.6.6.6/24,
+"name": "N-MS-OFFICE-365",
+"nameAlias": "",
+"scope": "import-security"
+ }
+ }
+ },
